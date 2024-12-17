@@ -19,6 +19,10 @@
 ***
 ### 4. 문제점 및 해결 방안
 문제가 없이 회로를 구현하고 회로에 맞게 기능까지 정상적으로 동작하는것을 예상하였지만 생각보다 많은 부분에서 문제가 발생하였고 사고가 발생하였다. 바퀴를 구현하는 과정에서 가장 큰 문제가 있었으며 사람을 인식하기 위해 Opencv를 계획하였지만 라즈베리파이의 카메라 모듈보다 인식률이 좋지 않은 것을 확인하여 라즈베리파이의 카메라 모듈을 사용하는 것으로 계획을 변경하였다.
-<img src="C:/Users/samsung/Desktop/바퀴1.jpg" width="450px" height="300px" title="바퀴 초기 모델" alt="바퀴">
+<div style="display: flex; gap: 30px;">
+  <img src="images/바퀴1.jpg" width="450px" height="300px" title="바퀴 초기 모델" alt="바퀴">
+  <img src="images/바퀴2.jpg" width="450px" height="300px" title="바퀴 수정 모델" alt="바퀴">
+</div>
+
 
 ***
